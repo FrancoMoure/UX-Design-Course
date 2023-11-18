@@ -106,6 +106,9 @@ do that, etc
 
 2- when and where the sprint is gonna happen
 
+3- approvers
+
+
 */
 
 
