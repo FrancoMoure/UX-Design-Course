@@ -113,6 +113,7 @@ curent state of the object
 things to modify
 etc
 
+5- give deadlines
 */
 
 
