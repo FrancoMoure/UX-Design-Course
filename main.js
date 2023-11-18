@@ -108,6 +108,10 @@ do that, etc
 
 3- approvers
 
+4- list of resources (create a plan)
+curent state of the object
+things to modify
+etc
 
 */
 
