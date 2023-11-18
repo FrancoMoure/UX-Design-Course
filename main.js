@@ -104,6 +104,8 @@ sprint brief: document to share with all the attendees to help the prepare for t
 Build new features for this
 do that, etc
 
+2- when and where the sprint is gonna happen
+
 */
 
 
