@@ -96,4 +96,15 @@ and propose solutions based on my findings.
 
 36:30 https://www.youtube.com/watch?v=uL2ZB7XXIgg
 
+
+
+sprint brief: document to share with all the attendees to help the prepare for the sprint
+
+1- Sprint challenge:
+Build new features for this
+do that, etc
+
 */
+
+
+
